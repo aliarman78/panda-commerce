@@ -1,0 +1,22 @@
+.panda-bg-info{
+  background-color: #fceae8;
+}
+#bg-color-1{
+  background-color: #ffa500;
+}
+#bg-color-2{
+  background-color: #da70d6;
+}
+#bg-color-3{
+  background-color: #0000ff;
+}
+.panda-btn-primary{
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+  color: #fff;
+  padding: 9px 25px;
+  border-radius: 8px;
+  border: none;
+}
+#subscribe h6{
+  color: gray;
+}
